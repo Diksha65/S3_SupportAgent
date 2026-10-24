@@ -1,7 +1,7 @@
 # Enterprise AI Support Platform
 ### Session 3 of 12 — The ReAct Architecture
 
-A production-grade AI customer support agent built with LangGraph and Gemini 2.5 Flash. Each session in this 12-part series adds a new capability layer. Session 3 introduces the full **ReAct (Reason + Act) loop** with three safety mechanisms that prevent the agent from looping forever, blowing up the context window, or repeating failed tool calls.
+A production-grade AI customer support agent built with LangGraph and Gemini 3.8 Flash. Each session in this 12-part series adds a new capability layer. Session 3 introduces the full **ReAct (Reason + Act) loop** with three safety mechanisms that prevent the agent from looping forever, blowing up the context window, or repeating failed tool calls.
 
 ---
 
